@@ -8,6 +8,7 @@ El objetivo es transformar datos históricos en información accionable que apoy
 
 ## Estructura del Proyecto
 
+```text
 .
 ├── app.py
 ├── src/
@@ -131,8 +132,7 @@ El dashboard permite aplicar filtros por categoría, región y tiempo, facilitan
 
 ```
 
-git clone [https://github.com/Abrilolo/Proyecto-An-lisis-de-Patrones-de-Ventas.git](https://github.com/Abrilolo/Proyecto-An-lisis-de-Patrones-de-Ventas.git)
-cd Proyecto-An-lisis-de-Patrones-de-Ventas
+https://github.com/Abrilolo/Proyecto-An-lisis-de-Patrones-de-Ventas.git
 
 
 ```
@@ -178,7 +178,6 @@ streamlit run app.py
 ```
 
 6. Abre el enlace que Streamlit muestre en la terminal (generalmente `http://localhost:8501`) en tu navegador.
-```
 
 
 
